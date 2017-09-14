@@ -1,2 +1,3 @@
 # InClass1
-In class activity 1 for cs3560
+lb296415
+Liam
